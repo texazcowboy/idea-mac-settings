@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="ctrl" value="ctrl := gomock.NewController(t)&#10;defer ctrl.Finish()" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>

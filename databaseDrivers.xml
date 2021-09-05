@@ -1,0 +1,7 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="cassandra">
+      <artifact id="Cassandra" name="Cassandra" use="true" version="1.4" />
+    </driver>
+  </component>
+</application>
