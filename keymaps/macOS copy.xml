@@ -9,6 +9,9 @@
   <action id="Adtui.ZoomToActualAction">
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="ChangesView.AddUnversioned">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
@@ -41,7 +44,12 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
 </keymap>
