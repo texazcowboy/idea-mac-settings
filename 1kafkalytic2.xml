@@ -13,5 +13,10 @@
         </entry>
       </map>
     </option>
+    <option name="config">
+      <map>
+        <entry key="printToFileSelected" value="true" />
+      </map>
+    </option>
   </component>
 </application>
