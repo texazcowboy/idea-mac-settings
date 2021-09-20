@@ -2,6 +2,13 @@
   <template name="ctrl" value="ctrl := gomock.NewController(t)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="GO" value="true" />
+      <option name="GO_EXPRESSION" value="false" />
+    </context>
+  </template>
+  <template name="prepf" value="prepareFields func(t *testing.T, ctrl *gomock.Controller) fields" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="GO" value="true" />
+      <option name="GO_EXPRESSION" value="false" />
     </context>
   </template>
 </templateSet>
