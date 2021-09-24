@@ -16,6 +16,7 @@
     <option name="config">
       <map>
         <entry key="printToFileSelected" value="true" />
+        <entry key="progress_tip" value="shown" />
       </map>
     </option>
   </component>
