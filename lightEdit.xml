@@ -1,0 +1,10 @@
+<application>
+  <component name="LightEdit">
+    <option name="autosaveMode" value="true" />
+    <option name="sessionFiles">
+      <list>
+        <option value="file://$USER_HOME$/test.json" />
+      </list>
+    </option>
+  </component>
+</application>
