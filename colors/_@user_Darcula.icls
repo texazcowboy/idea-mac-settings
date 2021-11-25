@@ -4,7 +4,7 @@
     <property name="created">2021-10-22T15:52:10</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-20T14:51:02</property>
+    <property name="modified">2021-11-25T11:07:40</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -13,4 +13,28 @@
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
   </colors>
+  <attributes>
+    <option name="GO_FUNCTION_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="bd45ff" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
