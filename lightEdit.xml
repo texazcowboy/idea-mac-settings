@@ -1,5 +1,8 @@
 <application>
   <component name="LightEdit">
     <option name="autosaveMode" value="true" />
+    <option name="frameInfo">
+      <frame x="196" y="45" width="1400" height="980" />
+    </option>
   </component>
 </application>
