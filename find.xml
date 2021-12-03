@@ -9,7 +9,6 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.go2</mask>
-    <mask>*.sql</mask>
     <mask>*.go</mask>
   </component>
 </application>
