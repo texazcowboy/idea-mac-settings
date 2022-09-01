@@ -5,8 +5,7 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="prepf" value="prepareFields func($T$ *testing.T, $CTRL$ *gomock.Controller) $RETURN_TYPE$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="T" expression="" defaultValue="&quot;t&quot;" alwaysStopAt="true" />
+  <template name="prepf" value="prepareFields func($CTRL$ *gomock.Controller) $RETURN_TYPE$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CTRL" expression="" defaultValue="&quot;ctrl&quot;" alwaysStopAt="true" />
     <variable name="RETURN_TYPE" expression="" defaultValue="&quot;fields&quot;" alwaysStopAt="true" />
     <context>
@@ -20,8 +19,7 @@
       <option name="GO_TYPE" value="false" />
     </context>
   </template>
-  <template name="prepe" value="preparedFields := tt.prepareFields($T$, $CTRL$)&#10;" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="T" expression="" defaultValue="&quot;t&quot;" alwaysStopAt="true" />
+  <template name="prepe" value="preparedFields := tc.prepareFields($CTRL$)&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="CTRL" expression="" defaultValue="&quot;ctrl&quot;" alwaysStopAt="true" />
     <context>
       <option name="GO_STATEMENT" value="true" />
