@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="go">
+      <display-name>SQL update</display-name>
+      <single-file value="true" />
+      <place disabled="true"><![CDATA[goStringLiteralThatMatches(" *UPDATE .*SET .*")]]></place>
+    </injection>
+  </component>
+</application>
