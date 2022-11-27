@@ -19,5 +19,7 @@
     <option name="showChangesInStatusBar" value="false" />
     <option name="showEditorInlineBlame" value="false" />
     <option name="showStatusWidget" value="false" />
+    <option name="startupNotificationVersion" value="1" />
+    <option name="version" value="6" />
   </component>
 </application>
