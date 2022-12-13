@@ -4,14 +4,14 @@
     <property name="created">2021-10-22T15:52:10</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-12-06T21:55:39</property>
+    <property name="modified">2022-12-13T15:51:37</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="171616" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
   </colors>
   <attributes>
     <option name="GO_FUNCTION_PARAMETER">
