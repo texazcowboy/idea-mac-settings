@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="*" id="7d12ea06-8fa2-45e5-a6bc-532a0f725042" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="github.com" id="7d12ea06-8fa2-45e5-a6bc-532a0f725042" nameFormat="DESCRIPTIVE" username="voroshen.av" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
