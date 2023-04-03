@@ -13,5 +13,6 @@
     <mask>*.sql</mask>
     <mask>*.yaml</mask>
     <mask>*.go</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
