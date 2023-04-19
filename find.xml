@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -11,8 +9,8 @@
     <mask>*.go2</mask>
     <mask>*.proto</mask>
     <mask>*.sql</mask>
-    <mask>*.yaml</mask>
-    <mask>*.go</mask>
     <mask>*.yml</mask>
+    <mask>*.go</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
