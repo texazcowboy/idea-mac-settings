@@ -94,4 +94,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="shift alt back_slash" />
+  </action>
 </keymap>
