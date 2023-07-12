@@ -55,12 +55,14 @@
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MinimizeCurrentWindow" />
-  <action id="NextTab">
+  <action id="NextProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
-  <action id="PreviousTab">
+  <action id="NextTab" />
+  <action id="PreviousProjectWindow">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
+  <action id="PreviousTab" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
