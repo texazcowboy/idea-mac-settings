@@ -3,7 +3,8 @@
     <option name="doNOTRainbowifyBigFiles" value="false" />
     <option name="indentGuidesOptions" value="Only selected indent guide" />
     <option name="rainbowVariablesOptionShowed" value="true" />
+    <option name="suppressLicenseBanner" value="true" />
     <option name="suppressXMLCheck" value="true" />
-    <option name="version" value="2023.2.6" />
+    <option name="version" value="2023.3.1" />
   </component>
 </application>
