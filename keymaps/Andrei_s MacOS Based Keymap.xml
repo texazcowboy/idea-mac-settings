@@ -30,9 +30,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
-  <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.SelectRow" />
-  <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSourceInNewWindow">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
@@ -55,14 +53,12 @@
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MinimizeCurrentWindow" />
-  <action id="NextProjectWindow">
+  <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
-  <action id="NextTab" />
-  <action id="PreviousProjectWindow">
+  <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
-  <action id="PreviousTab" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
@@ -88,15 +84,11 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
-  <action id="Uml.ShowDiff" />
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
-  <action id="copilot.openCopilot">
-    <keyboard-shortcut first-keystroke="shift alt back_slash" />
   </action>
 </keymap>
