@@ -2,9 +2,9 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveNewLinesAction" />
-        <option name="description" value="Remove all line breaks in selected text" />
-        <option name="textWithMnemonic" value="Remove All Newlines" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.align.AlignLeftAction" />
+        <option name="description" value="Align text within selections" />
+        <option name="textWithMnemonic" value="Align Left" />
       </UniversalActionModel>
     </option>
     <option name="sortSettings">
