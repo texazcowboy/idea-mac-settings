@@ -12,5 +12,6 @@
     <mask>*.proto</mask>
     <mask>*.sql</mask>
     <mask>*.go</mask>
+    <mask>*.</mask>
   </component>
 </application>
