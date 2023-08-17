@@ -9,9 +9,9 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.go2</mask>
-    <mask>*.proto</mask>
     <mask>*.sql</mask>
-    <mask>*.go</mask>
     <mask>*.</mask>
+    <mask>*.proto</mask>
+    <mask>*.go</mask>
   </component>
 </application>
