@@ -38,6 +38,8 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="FileChooser.GotoProject" />
   <action id="FindNext" />
   <action id="Git.Branches">
@@ -53,8 +55,14 @@
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisMethod" />
   <action id="MinimizeCurrentWindow" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -62,6 +70,8 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="SaveAll" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl meta j" />
