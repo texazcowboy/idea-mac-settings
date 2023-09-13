@@ -21,9 +21,22 @@
   </template>
   <template name="prepx" value="preparedFields := $TC$.prepareFields($CTRL$)&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TC" expression="" defaultValue="&quot;tc&quot;" alwaysStopAt="true" />
-    <variable name="CTRL" expression="" defaultValue="&quot;ctrl&quot;" alwaysStopAt="true" />
+    <variable name="CTRL" expression="" defaultValue="&quot;gomock.NewController(t)&quot;" alwaysStopAt="true" />
     <context>
       <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tp" value="$T$.Parallel()&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="T" expression="" defaultValue="t" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+  <template name="wantErr" value="if tc.wantErr {&#10;    require.Error($T$, $GOTERR$)&#10;} else {&#10;    require.NoError($T$, $GOTERR$)&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="T" expression="" defaultValue="t" alwaysStopAt="true" />
+    <variable name="GOTERR" expression="" defaultValue="err" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
     </context>
   </template>
 </templateSet>
